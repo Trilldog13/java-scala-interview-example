@@ -2,7 +2,7 @@
 
 This week I’ve been focusing on the **Senior Backend Software Engineer (Picking & Orchestration)** role.
 
-This role is central to our In-Store Fulfilment (ISF) mission, where we build cloud-based systems to automate online customer orders at scale across 11 countries. Candidates should understand that we are looking for strong backend engineers who can bridge the gap between core JVM engineering and the future of AI-assisted development[cite: 6, 25]. [cite_start]This framework helps candidates prepare by outlining our focus on distributed systems, high availability, and collaborative architectural design[cite: 16, 25].
+This role is central to our In-Store Fulfilment (ISF) mission, where we build cloud-based systems to automate online customer orders at scale across 11 countries. Candidates should understand that we are looking for strong backend engineers who can bridge the gap between core JVM engineering and the future of AI-assisted development.This framework helps candidates prepare by outlining our focus on distributed systems, high availability, and collaborative architectural design
 
 If you’ve come across this repo by chance and it’s sparked your interest, don’t hesitate to reach out at **jonathan.trillwood@ocado.com** — I’m always open to a conversation about great hiring and great engineers.
 
@@ -11,7 +11,7 @@ If you’ve come across this repo by chance and it’s sparked your interest, do
 > **Note:** This repository is a process guide. It contains no technical answers or solutions to our tasks; it is designed to give you a flavor of what to expect during your journey with us.
 
 ## 🎯 Our Mission
-Our In-Store Fulfilment (ISF) department designs and develops distributed cloud-based systems and web technologies to automate online customer orders at scale[cite: 5]. [cite_start]We operate in over 1,000 stores across 4 continents, handling more than 300,000 weekly orders[cite: 11, 12].
+Our In-Store Fulfilment (ISF) department designs and develops distributed cloud-based systems and web technologies to automate online customer orders at scale. We operate in over 1,000 stores across 4 continents, handling more than 300,000 weekly orders
 
 ## 🛠 The Interview Stages
 
