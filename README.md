@@ -1,4 +1,4 @@
-# Senior Backend (Scala/Java) Engineer (Picking & Orchestration) Interview Framework
+# Senior Backend (Scala/Java) Engineer (Picking & Orchestration) Interview Framework Example
 
 This week I’ve been focusing on the **Senior Backend Software Engineer (Picking & Orchestration)** role.
 
@@ -8,7 +8,7 @@ If you’ve come across this repo by chance and it’s sparked your interest, do
 
 ---
 
-> **Note:** This repository is a process guide. It contains no technical answers or solutions to our tasks; it is designed to give you a flavor of what to expect during your journey with us.
+> **Note:** This repository is a process guide. It contains no technical answers or solutions to our tasks; it is designed to give you a flavour of what to expect during your journey with us.
 
 ## 🎯 Our Mission
 Our In-Store Fulfilment (ISF) department designs and develops distributed cloud-based systems and web technologies to automate online customer orders at scale. We operate in over 1,000 stores across 4 continents, handling more than 300,000 weekly orders
